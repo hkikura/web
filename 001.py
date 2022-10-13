@@ -1,3 +1,9 @@
+a = 2000
+b = 21
+print(f"a = {a}")
+print(f"b = {b}")
+print(f"a + b = {a + b}")
+'''
 # 磯野家　トイレ掃除当番
 import random
 mem = ["なみへい","ふね","さざえ","ますお","かつお","わかめ","たらちゃん"]
@@ -8,3 +14,4 @@ for i in range(1,32):
     cou[tan] = cou[tan] + 1
 print("メンバー",mem)
 print("回　　数",cou)
+'''
