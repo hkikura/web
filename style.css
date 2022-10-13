@@ -1,0 +1,47 @@
+
+
+body {
+    background-color:rgb(41, 158, 30);
+    color: #340c91;
+} 
+
+.box12{
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    color: #5989cf;
+    background: #f8ccee;
+    border-bottom: solid 6px #aac5de;
+    border-radius: 9px;
+}
+.box12 p {
+    margin: 0; 
+    padding: 0;
+}
+
+table {
+background-color: #c3effa;
+margin: 20px;
+font-size:  20px;
+font-weight: bold;
+font-family: "Comic Sans MS",fantasy;
+border-collapse: separate;
+border-spacing: 20px;  
+}
+
+table, td, th {
+border: 3px #fabdbd solid;
+}
+
+th {
+    background-color: #00e2cf;  /* 背景色指定 */
+    color: rgb(100, 10, 153); 
+    font-size: 100%;
+}
+
+td {
+width: 50px;
+height: 50px;
+text-align: center;
+vertical-align: center;
+}
+
